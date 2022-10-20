@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-<img src="https://pbs.twimg.com/profile_banners/1582290606113554432/1666165876/1500x500" alt="algomax-banner" width="900" height="300">
+<img src="https://drive.google.com/uc?id=1QojzKyebJ6vJ7oySFv0vOAPoojmlxjh6" alt="algomax-banner" width="900" height="300">
 
 
 
