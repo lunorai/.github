@@ -18,7 +18,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Algomax.Ai's Twitter Page" height="50" width="50">
   </a>
 
- <a href="https://www.twitter.com/algomaxai/">
+ <a href="https://www.github.com/algomaxai//">
     <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="Algomax.Ai's Github Org" height="50" width="50">
   </a>
 
