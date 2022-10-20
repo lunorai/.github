@@ -6,8 +6,8 @@
 
 # Hey! 👋 Nice to see you. #
 
-#### At Algomax we are trying to build all inclusive AI community of creators and investors. Web3 allows this possibility in a trustless and fair environment.
-#### We are actively working on our alpha launch where we bring interesting capabilities for AI developers to participate in AI development and for AI investors to fund this development.
+#### At Algomax we are trying to build all inclusive AI community of creators and contributors. Web3 allows this possibility in a trustless and fair environment.
+#### We are actively working on our alpha launch where we bring interesting capabilities for AI developers to participate in AI development and for AI contributors to fund this development.
 
 #### We would love for you to be part of this community and contribute to its growth, so that we can together drive the future of crowdsourced AI. 
 
