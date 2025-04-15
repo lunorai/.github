@@ -15,7 +15,7 @@
 Lunor is a decentralized ecosystem designed to reshape how AI systems are built, funded, and owned.
 
 - 🚀 **Lunor.Fund** – Crowdfund powerful Intelligence ideas and earn co-ownership in the systems you believe in.  
-- 🧠 **Lunor.Quest** – Participate in open Intelligence Quests to build models, gather data, or improve agents.  
+- 🧠 [**Lunor.Quest**](https://lunor.quest) – Participate in open Intelligence Quests to build models, gather data, or improve agents.  
 - 💎 **Lunor.Market** – Monetize and subscribe to Collective Intelligence developed by the Lunor community.
 
 ---
