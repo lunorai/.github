@@ -39,16 +39,16 @@ We’re on a mission to unlock AI for everyone. If you believe in a future where
 
 <p align="left">
 
- <a href="https://www.twitter.com/0xdesights/">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Desights AI's Twitter Page" height="50" width="50">
+ <a href="https://www.twitter.com/lunor_ai/">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Lunor AI's Twitter Page" height="50" width="50">
   </a>
 
- <a href="https://www.github.com/desights/">
-    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="Desights AI's Github Org" height="50" width="50">
+ <a href="https://www.github.com/lunorai/">
+    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="Lunor AI's Github Org" height="50" width="50">
   </a>
 
   <a href="https://discord.gg/XzJnQVBuzE">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Desights AI's Discord Server" height="50" width="50">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Lunor AI's Discord Server" height="50" width="50">
   </a>
 
 </p>
